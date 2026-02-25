@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "How to Become a Frontend Developer in 2026",
+    "cover": "https://picsum.photos/600/400?random=1",
+    "author": "Mr. Raju",
+    "author_img": "https://i.pravatar.cc/150?img=1",
+    "posted_date": "2026-02-20",
+    "reading_time": 5,
+    "hashtags": ["#frontend", "#career", "#webdev"]
+  },
+  {
+    "id": 2,
+    "title": "Understanding JavaScript Closures Easily",
+    "cover": "https://picsum.photos/600/400?random=2",
+    "author": "Sara Ahmed",
+    "author_img": "https://i.pravatar.cc/150?img=2",
+    "posted_date": "2026-02-18",
+    "reading_time": 8,
+    "hashtags": ["#javascript", "#beginners", "#coding"]
+  },
+  {
+    "id": 3,
+    "title": "React Hooks Explained in Simple Terms",
+    "cover": "https://picsum.photos/600/400?random=3",
+    "author": "John Karim",
+    "author_img": "https://i.pravatar.cc/150?img=3",
+    "posted_date": "2026-02-15",
+    "reading_time": 7,
+    "hashtags": ["#react", "#hooks", "#frontend"]
+  },
+  {
+    "id": 4,
+    "title": "Mastering Tailwind CSS for Modern UI",
+    "cover": "https://picsum.photos/600/400?random=4",
+    "author": "Nusrat Jahan",
+    "author_img": "https://i.pravatar.cc/150?img=4",
+    "posted_date": "2026-02-12",
+    "reading_time": 6,
+    "hashtags": ["#tailwind", "#css", "#design"]
+  },
+  {
+    "id": 5,
+    "title": "Node.js Crash Course for Beginners",
+    "cover": "https://picsum.photos/600/400?random=5",
+    "author": "Imran Hossain",
+    "author_img": "https://i.pravatar.cc/150?img=5",
+    "posted_date": "2026-02-10",
+    "reading_time": 10,
+    "hashtags": ["#nodejs", "#backend", "#javascript"]
+  },
+  {
+    "id": 6,
+    "title": "Building REST APIs with Express",
+    "cover": "https://picsum.photos/600/400?random=6",
+    "author": "Farhana Rahman",
+    "author_img": "https://i.pravatar.cc/150?img=6",
+    "posted_date": "2026-02-08",
+    "reading_time": 9,
+    "hashtags": ["#express", "#api", "#backend"]
+  },
+  {
+    "id": 7,
+    "title": "Git & GitHub for Absolute Beginners",
+    "cover": "https://picsum.photos/600/400?random=7",
+    "author": "Tanvir Hasan",
+    "author_img": "https://i.pravatar.cc/150?img=7",
+    "posted_date": "2026-02-05",
+    "reading_time": 4,
+    "hashtags": ["#git", "#github", "#versioncontrol"]
+  },
+  {
+    "id": 8,
+    "title": "Understanding Async & Await in JavaScript",
+    "cover": "https://picsum.photos/600/400?random=8",
+    "author": "Ayesha Sultana",
+    "author_img": "https://i.pravatar.cc/150?img=8",
+    "posted_date": "2026-02-02",
+    "reading_time": 6,
+    "hashtags": ["#javascript", "#async", "#programming"]
+  },
+  {
+    "id": 9,
+    "title": "MongoDB Basics for Web Developers",
+    "cover": "https://picsum.photos/600/400?random=9",
+    "author": "Rakib Islam",
+    "author_img": "https://i.pravatar.cc/150?img=9",
+    "posted_date": "2026-01-30",
+    "reading_time": 7,
+    "hashtags": ["#mongodb", "#database", "#backend"]
+  },
+  {
+    "id": 10,
+    "title": "How to Prepare for a Developer Interview",
+    "cover": "https://picsum.photos/600/400?random=10",
+    "author": "Shakil Ahmed",
+    "author_img": "https://i.pravatar.cc/150?img=10",
+    "posted_date": "2026-01-28",
+    "reading_time": 11,
+    "hashtags": ["#interview", "#career", "#developer"]
+  }
+]
